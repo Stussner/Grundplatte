@@ -6,6 +6,6 @@ Basic Tools for Modeling, Game Development and Physical Simulations
 * Portal Visibility Construction, 
 * Scene Radiosity
 * Game Engine and Game Development
-* diffractive Raytracing using wave interference
-* quantum mechanical computation for the Theoretical Chemistry
+* (feat.?( diffractive Raytracing using wave interference
+* Q-Chem / IQmol : Theoretical Chemistry
 
